@@ -7,7 +7,7 @@ InstallerType: zip
 NestedInstallerType: portable
 NestedInstallerFiles:
 - RelativeFilePath: kubelogin.exe
-  PortableCommandAlias: kubectl-oidc_login
+  PortableCommandAlias: kubectl-oidc_login.exe
 ReleaseDate: 2026-01-11
 Installers:
 - Architecture: x64
@@ -18,3 +18,4 @@ Installers:
   InstallerSha256: 2789AC023C20AA55951A169E9F2E5527E419945F806D9A4B09775BFA7E98A245
 ManifestType: installer
 ManifestVersion: 1.10.0
+
